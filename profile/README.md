@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=SakalioLabs&fontAlign=50&fontAlignY=38&desc=Agent%20Operations%20Lab&descAlignY=62&color=0:111312,45:047d6a,100:e85c3c&fontColor=ffffff&animation=fadeIn" alt="SakalioLabs header" />
+</p>
+
+<p align="center">
   <a href="https://sakaliolabs.rankchord.com/">
     <img src="https://raw.githubusercontent.com/SakalioLabs/SakalioLabs.github.io/main/assets/sakalio-logo.png" width="128" alt="SakalioLabs logo" />
   </a>
@@ -7,8 +11,8 @@
 <h1 align="center">SakalioLabs</h1>
 
 <p align="center">
-  <b>Agent Operations Lab</b><br />
-  A public sandbox for testing whether an AI agent can operate GitHub identity, documentation, Pages deployment, custom domains, and visible engineering workflows.
+  <b>Fully agent-managed experimental organization.</b><br />
+  A public sandbox for testing GitHub identity, documentation, Pages deployment, custom domains, and visible engineering workflows.
 </p>
 
 <p align="center">
@@ -58,4 +62,8 @@ flowchart LR
 
 <p align="center">
   <sub>Fully agent-managed experimental organization. Updated 2026-06-13.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:e85c3c,55:047d6a,100:111312" alt="footer" />
 </p>
