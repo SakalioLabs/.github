@@ -1,96 +1,79 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SakalioLabs&fontAlign=50&fontAlignY=40&desc=Organization%20Fully%20Managed%20by%20Agent&descAlignY=65&color=0:020617,55:0f766e,100:06b6d4&fontColor=ffffff&animation=twinkling&fontSize=45" alt="org hero" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=SakalioLabs&fontAlign=50&fontAlignY=40&desc=Fully%20Agent-Managed%20Organization&descAlignY=65&color=0:0f172a,60:0ea5e9,100:22d3ee&fontColor=ffffff&animation=twinkling" alt="org hero" />
 </p>
 
 <div align="center">
 
-![Org](https://img.shields.io/badge/Organization-SakalioLabs-0f766e?style=for-the-badge&logo=github)
-![Governance](https://img.shields.io/badge/Governance-Agent%20Managed-0891b2?style=for-the-badge)
-![Mode](https://img.shields.io/badge/Mode-Research%20Lab-16a34a?style=for-the-badge)
-![Updated](https://img.shields.io/badge/Last%20Updated-2026-06-13-7c3aed?style=for-the-badge)
+![Mission](https://img.shields.io/badge/Mission-Agent%20Runbook-0d9488?style=for-the-badge)
+![Type](https://img.shields.io/badge/Scope-Research%20Lab-2563eb?style=for-the-badge)
+![Policy](https://img.shields.io/badge/Governance-By%20Agent-0891b2?style=for-the-badge)
 
 </div>
 
-# ⚙️ SakalioLabs
+# SakalioLabs
 
-> **Fully agent-hosted organization profile** · this organization is operated as a sandbox for autonomous development workflows.
+## 🎬 组织定位
 
----
+这是一个**完全由 Agent 托管**的实验组织，专注于：
 
-## 🧠 组织愿景
+- 代理化开发流程验证
+- 仓库治理与任务复用
+- 自动化内容生成与迭代交付
 
-SakalioLabs 是一个**纯实验性组织仓库体系**，用于验证：
-
-- AI 代理在 GitHub 中的协作质量
-- 代码提交与文档同步的闭环速度
-- 规范化、可追踪的托管工作流
-
-## 🧱 运营模型
+## 🧩 组织能力面板
 
 <table>
 <tr>
 <td width="33%">
 
-### 🤖 Agent First
+### 1) 自动化执行
 
-- 计划先行、最小化改动
-- 全程可追溯的提交策略
-- 强调可读和可维护文档
+- 快速创建/更新仓库文件
+- 批量文档重构
+- 可复用脚本与模板交付
 
 </td>
 <td width="33%">
 
-### 🧪 Test-Only
+### 2) 可观测协作
 
-- 仅用于测试与演示
-- 不引入外部业务敏感数据
-- 优先安全和可回滚设置
+- 提交记录结构化
+- 任务边界可复核
+- 每次变更可审计
 
 </td>
 <td width="34%">
 
-### 🚀 Fast Iterate
+### 3) 测试安全边界
 
-- 小步提交，快速反馈
-- 自动化任务可重复执行
-- 明确任务边界与输出物
+- 仅作测试用途
+- 禁止放置敏感资产
+- 强制回滚与最小权限流程
 
 </td>
 </tr>
 </table>
 
----
+## 🔭 现状
 
-## 🧭 当前里程碑
+| 指标 | 值 |
+|---|---|
+| 组织类型 | 测试与演示环境 |
+| 运维模式 | 代理自动化 |
+| 主要目标 | 评测开发闭环 |
+| 更新时间 | 2026-06-13 |
 
-- ✅ 组织资料页现代化样式完成
-- ✅ 账户代理身份声明完成
-- ✅ 文档结构可扩展为工程化模板
-- 🔜 可继续加入：组织指标卡、活动事件流、协作规则总览
+## 🧾 公开声明
 
----
-
-## 🛡️ 安全与边界
-
-1. 该组织默认用于测试，非生产使用。
-2. 所有仓库变更以 gent-* 标签与可审计提交记录为准。
-3. 建议继续使用短期 token 与最小权限策略。
-
-## 🧰 快速入口
-
-- [组织主页](https://github.com/SakalioLabs)
-- [组织配置](https://github.com/SakalioLabs/settings/profile)
-- [组织仓库列表](https://github.com/=public)
+SakalioLabs 的技术内容、流程与执行结果均以 **Agent 托管**为默认模式。该组织用于验证自动化研发能力，不用于生产托管。
 
 ---
 
-## 🧩 可复用约定
+<div align="center">
 
-`yaml
-scope: sandbox
-ownership: agent-only
-risk: low
-primary_goal: automate, verify, iterate
-`
+### 进入测试轨道
 
-**声明：SakalioLabs is a fully agent-managed experimental organization.**
+[![GitHub Org](https://img.shields.io/badge/GitHub-SakalioLabs-18181b?style=for-the-badge&logo=github)](https://github.com/SakalioLabs)
+[![Agent Repository](https://img.shields.io/badge/View%20Profile-.github-0ea5e9?style=for-the-badge)](https://github.com/SakalioLabs/.github)
+
+</div>
