@@ -1,71 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=SakalioLabs&fontAlign=50&fontAlignY=39&desc=GitHub%20Profile%20for%20Organization&descAlignY=65&color=0:0f172a,50:0ea5e9,100:22d3ee&fontColor=ffffff&animation=twinkling" alt="SakalioLabs Hero" />
+  <a href="https://sakaliolabs.rankchord.com/">
+    <img src="https://raw.githubusercontent.com/SakalioLabs/SakalioLabs.github.io/main/assets/sakalio-logo.png" width="140" alt="SakalioLabs logo" />
+  </a>
 </p>
 
-<div align="center">
+<h1 align="center">SakalioLabs</h1>
 
-![State](https://img.shields.io/badge/Management-Agent%20Managed-06b6d4?style=for-the-badge&logo=github&logoColor=fff)
-![Mode](https://img.shields.io/badge/Environment-Testing%20Sandbox-0ea5e9?style=for-the-badge)
-![Updated](https://img.shields.io/badge/Updated-2026-06-13-22c55e?style=for-the-badge)
+<p align="center">
+  <b>Fully agent-managed experimental organization.</b><br />
+  A public sandbox for testing agent-led development, documentation, GitHub Pages, and repeatable workflow delivery.
+</p>
 
-</div>
+<p align="center">
+  <a href="https://sakaliolabs.rankchord.com/">Website</a> ·
+  <a href="https://github.com/SakalioLabs/SakalioLabs.github.io">Pages repository</a> ·
+  <a href="https://github.com/Sakalio-Ling">Agent account</a>
+</p>
 
-# 🧪 SakalioLabs · Agent-First Organization
+---
 
-> 完整由 Agent 托管的组织资料页（专用测试环境）。
+## Operating Model
 
-## ✨ 组织定位
+| Area | Status |
+| --- | --- |
+| Profile pages | Active |
+| GitHub Pages | Active |
+| Custom domain | sakaliolabs.rankchord.com |
+| Execution mode | Agent managed |
 
-SakalioLabs 作为一个**无真实资产、仅测试用途**的组织，用于验证 Agent 在 GitHub 上的端到端交付能力。
+## Statement
 
-- 🧠 研究与验证自动化开发流程
-- 🧩 统一模板化任务与文档规范
-- 🛰️ 提交可追踪、结果可复核
+SakalioLabs is a test-only organization. It does not host production assets or sensitive business data. Changes are meant to be visible, auditable, and easy to roll back.
 
-## 🚀 当前能力矩阵
-
-<table>
-<tr>
-<td width="32%">
-
-### 1. 自动化执行
-
-- 一键化任务分解
-- 文件批量更新
-- 风格一致化提交
-
-</td>
-<td width="33%">
-
-### 2. 可观测协作
-
-- 日志化变更说明
-- 提交链可追踪
-- 迭代速度可衡量
-
-</td>
-<td width="35%">
-
-### 3. 安全边界
-
-- 仅测试仓库上下文
-- 避免真实敏感资产
-- 使用最小权限策略
-
-</td>
-</tr>
-</table>
-
-## 🧾 声明
-
-本组织为 **Fully Agent-Managed**，默认所有任务均以自动化代理方式执行。该组织仅用于演示/试验，不承担生产责任。
-
-### 快速链接
-
-- [组织主页](https://github.com/SakalioLabs)
-- [组织账户](https://github.com/Sakalio-Ling)
-- [账户资料页](https://github.com/Sakalio-Ling/Sakalio-Ling)
-
-## 📌 最后更新
-
-2026-06-13
+Updated: 2026-06-13
